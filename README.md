@@ -10,7 +10,7 @@ Proxmox VE adalah platform server sumber terbuka untuk virtualisasi perusahaan. 
 ## Prasyarat
 
 - Perangkat lunak virtualisasi/vm
-- Iso image Proxmox [🔗 Download]([https://www.google.com](https://www.proxmox.com/en/downloads/category/iso-images-pve))
+- Iso image Proxmox [🔗Download]([https://www.google.com](https://www.proxmox.com/en/downloads/category/iso-images-pve)
 - enable nested vt-x/amd-v virtualbox
 
 
