@@ -15,7 +15,7 @@ Proxmox VE adalah platform server sumber terbuka untuk virtualisasi perusahaan. 
 
 
 
-## Installation
+## Setup vm Virtual Box
 
 - Setup vm di virtual box
 
