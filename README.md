@@ -19,28 +19,30 @@ Proxmox VE adalah platform server sumber terbuka untuk virtualisasi perusahaan. 
 
 - Setup vm di virtual box
 
-```bash
-  type linux
-  version debian 64 bit
-```
+
+type linux
+
+version debian 64 bit
+
 
 ![Logo](https://raw.githubusercontent.com/danimaulana/Cara-install-proxmox-di-vm/main/Image/createvirtualmachine-1.png)
 
-```bash
-  memory 2gb
-  processors 1
-```
+
+memory 2gb
+
+processors 1
+
 
 ![Logo](https://raw.githubusercontent.com/danimaulana/Cara-install-proxmox-di-vm/main/Image/createvirtualmachine-2.png)
 
-```bash
-  storage 20gb
-```
+
+storage 20gb
+
 
 ![Logo](https://raw.githubusercontent.com/danimaulana/Cara-install-proxmox-di-vm/main/Image/createvirtualmachine-3.png)
 
-```bash
-  finish
-```
+
+finish
+
 
 ![Logo](https://raw.githubusercontent.com/danimaulana/Cara-install-proxmox-di-vm/main/Image/createvirtualmachine-4.png)
